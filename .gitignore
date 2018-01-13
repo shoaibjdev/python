@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+.Python
+build/
+dist/
+lib/
+lib64/
+
+MANIFEST
+pip-log.txt
+*.manifest
+.cache
+.python-version
+
+.env
+.venv
+env/
+venv/
+ENV/
+
